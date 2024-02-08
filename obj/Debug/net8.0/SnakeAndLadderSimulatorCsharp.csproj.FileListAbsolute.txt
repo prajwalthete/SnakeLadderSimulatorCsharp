@@ -12,3 +12,4 @@ E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.
 E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\SnakeAndLadderSimulatorCsharp.pdb
 E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\SnakeAndLadderSimulatorCsharp.genruntimeconfig.cache
 E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\ref\SnakeAndLadderSimulatorCsharp.dll
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\SnakeAndLadderSimulatorCsharp.sourcelink.json
