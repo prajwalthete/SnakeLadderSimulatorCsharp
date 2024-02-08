@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SnakeAndLadderSimulatorCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b67e391bb76a21df9cca92c612b97724418c7c37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc416c13d590a9b71ac1e2fbb45bae8f61b4cd06")]
 [assembly: System.Reflection.AssemblyProductAttribute("SnakeAndLadderSimulatorCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SnakeAndLadderSimulatorCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

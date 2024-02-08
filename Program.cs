@@ -17,11 +17,12 @@ class Program
 
         Random random = new Random();
 
-
+        int count = 0;
         while (playerPosition < 100)
         {
 
             int diceRoll = random.Next(1, 7);
+            count++;
             Console.WriteLine("Dice rolled: " + diceRoll);
 
 
@@ -29,6 +30,7 @@ class Program
             // 1: No Play,  2: Ladder,  3: Snake
 
             Console.WriteLine("Option chosen: " + option);
+
 
 
             switch (option)
@@ -56,10 +58,11 @@ class Program
             playerPosition = Math.Max(playerPosition, 0);
 
 
+
             Console.WriteLine("Player's new position is: " + playerPosition);
         }
-
-
+    
+        Console.WriteLine("Number Of Times The Dice Was Played " + count);
         Console.WriteLine("Congratulations! Player reached the Exaclty winning position 100.");
     }
 }
