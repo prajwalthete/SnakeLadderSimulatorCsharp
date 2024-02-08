@@ -1,0 +1,14 @@
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\bin\Debug\net8.0\SnakeAndLadderSimulatorCsharp.exe
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\bin\Debug\net8.0\SnakeAndLadderSimulatorCsharp.deps.json
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\bin\Debug\net8.0\SnakeAndLadderSimulatorCsharp.runtimeconfig.json
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\bin\Debug\net8.0\SnakeAndLadderSimulatorCsharp.dll
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\bin\Debug\net8.0\SnakeAndLadderSimulatorCsharp.pdb
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\SnakeAndLadderSimulatorCsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\SnakeAndLadderSimulatorCsharp.AssemblyInfoInputs.cache
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\SnakeAndLadderSimulatorCsharp.AssemblyInfo.cs
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\SnakeAndLadderSimulatorCsharp.csproj.CoreCompileInputs.cache
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\SnakeAndLadderSimulatorCsharp.dll
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\refint\SnakeAndLadderSimulatorCsharp.dll
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\SnakeAndLadderSimulatorCsharp.pdb
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\SnakeAndLadderSimulatorCsharp.genruntimeconfig.cache
+E:\.NET WORKSPACE-1\Websites1\2023\SnakeAndLadderSimulatorCsharp\obj\Debug\net8.0\ref\SnakeAndLadderSimulatorCsharp.dll
