@@ -2,15 +2,27 @@
 
 namespace a;
 
-//UC1 - Snake and Ladder game played with single player at start position 0
+//UC2 - Snake and Ladder game: Player rolls the die to get a number between 1 to 6
 
 class Program
 {
     static void Main(string[] args)
     {
         Console.WriteLine("Welcome To Sanke And Ladder Simulator Game");
-        int PlayerPosition = 0;
-        Console.WriteLine("PlayerPosition is at : " + PlayerPosition);
 
+     
+        int playerPosition = 0;
+        Console.WriteLine("Player position is at: " + playerPosition);
+
+
+        Random random = new Random();
+
+ 
+        int diceRoll = random.Next(1, 7);
+        Console.WriteLine("Dice rolled: " + diceRoll);
+
+        // Update player position
+        playerPosition += diceRoll;
+        Console.WriteLine("Player's new position is: " + playerPosition);
     }
 }
