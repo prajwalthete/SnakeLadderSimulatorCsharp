@@ -2,7 +2,7 @@
 
 namespace a;
 
-//UC4 - Snake and Ladder game: Repeat game loop until player reaches winning position 100
+//UC5 - Snake and Ladder game: Repeat game loop until player reaches winning position 100
 
 class Program
 {
@@ -26,7 +26,8 @@ class Program
 
 
             int option = random.Next(1, 4);
-            // 1: No Play, 2: Ladder, 3: Snake
+            // 1: No Play,  2: Ladder,  3: Snake
+
             Console.WriteLine("Option chosen: " + option);
 
 
@@ -35,11 +36,16 @@ class Program
                 case 1: // No Play
                     Console.WriteLine("No Play. Player stays in the same position.");
                     break;
+
                 case 2: // Ladder
                     playerPosition += diceRoll;
-
+                    if (playerPosition > 100)
+                    {
+                        playerPosition -= diceRoll;
+                    };
                     Console.WriteLine("Ladder. Player moves ahead by " + diceRoll + " positions.");
                     break;
+
                 case 3: // Snake
                     playerPosition -= diceRoll;
                     Console.WriteLine("Snake. Player moves behind by " + diceRoll + " positions.");
@@ -54,6 +60,7 @@ class Program
         }
 
 
-        Console.WriteLine("Congratulations! Player reached the winning position 100.");
+        Console.WriteLine("Congratulations! Player reached the Exaclty winning position 100.");
     }
 }
+
